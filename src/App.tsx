@@ -1,9 +1,9 @@
 /* eslint-disable prettier/prettier */
 /* eslint-disable react/jsx-fragments */
 import React, { Fragment } from 'react';
-import { 
-  BrowserRouter as Router, 
-  Switch, 
+import {
+  BrowserRouter as Router,
+  Switch,
   Route,
  } from 'react-router-dom';
 import NavBar from './components/NavBar';
@@ -37,7 +37,7 @@ const App: React.FC = () => {
               <p> Página de documentarios</p>
             </div>
           </Route>
-          
+
           <Route path="/shows">
             <div>
               <p> Página de Shows</p>

@@ -11,7 +11,7 @@ const GlobalStyle = createGlobalStyle`
     background-color: ${theme.verdeCinebras};
   }
 
-  body {
+  /* body {
     font-size: 14px;
     color: ${theme.textTitle};
     background: ${theme.background};
@@ -21,7 +21,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     box-sizing: border-box;
     outline: 0
-  }
+  } */
 
   button {
     cursor: pointer;

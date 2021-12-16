@@ -1,6 +1,4 @@
 import styled from 'styled-components';
-import imagemLateralPNG from '../../assets/images/imagemLateral.png';
-import Logo from '../../assets/images/Logo.png';
 
 export const Container = styled.div`
   display: flex;
@@ -19,7 +17,6 @@ export const ContainerEsquerdo = styled.div`
 `;
 
 export const LogoContainer = styled.div`
-  background-image: url(${Logo});
   width: 150px;
   height: 150px;
   margin-left: 25vh;
@@ -28,7 +25,6 @@ export const LogoContainer = styled.div`
 export const ContainerDireito = styled.div`
   width: 50vw;
   height: 965px;
-  background-image: url(${imagemLateralPNG});
 `;
 
 export const InputLogin = styled.input`
