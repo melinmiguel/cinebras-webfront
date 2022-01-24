@@ -9,6 +9,7 @@ import {
 import NavBar from './components/NavBar';
 import TemplatePage from './components/TemplatePage';
 import Home from './Pages/Home';
+import Filmes from './Pages/Filmes';
 import GlobalStyle from './styles/global';
 
 const App: React.FC = () => {
@@ -23,7 +24,7 @@ const App: React.FC = () => {
           </Route>
 
           <Route path="/filmes">
-            <TemplatePage title="batatida 123" />
+            <Filmes />
           </Route>
 
           <Route path="/series">

@@ -23,7 +23,7 @@ const Home: React.FC = () => {
     <>
       <Header>
         <Image>
-          *lOGO CONTAINER
+          *LOGO CONTAINER
           {/* <img src={Logo} /> */}
         </Image>
         <Input className="pesquisa" placeholder="o que deseja encontrar?" />
