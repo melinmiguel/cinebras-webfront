@@ -48,7 +48,7 @@ const Home: React.FC = () => {
       </AnuncianteHorizontal>
       <Body>
         <ContainerFilmesCarroussel>
-          <Carousel category={dadosIniciais.categorias[1]} ignoreFirstVideo />
+          <Carousel category={dadosIniciais.categorias[0]} ignoreFirstVideo />
           {/* CAROSSEL!!! */}
           <FilmesCarrousel>
             <div>
