@@ -1,6 +1,17 @@
+/* eslint-disable import/extensions */
+/* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
+import { LogoContainer } from '../../components/TemplatePage/styles';
 // import Logo from 'src/assets/images/logo.png';
 import LabelBuscar from './Components/LabelBuscar';
+import Logo from '../../img/logo.png';
+import LogoHavan from '../../img/logoHavan.png';
+import LogoItau from '../../img/logoItau.png';
+import Carousel from '../../components/Carousel'; // carrossel!
+import dadosIniciais from '../../data/dados_iniciais.json'; // carrossel!
+import theme from '../../styles/theme';
+import backgroundImageHeader from '../../img/background_header4.png';
+
 import {
   Image,
   Input,
@@ -16,32 +27,29 @@ import {
   ContainerFooterEmail,
   ContainerFilmesCarroussel,
   AnuncianteVertical,
+  LogoAnunciante,
+  AnuncianteMiniVertical,
 } from './styles';
 
 const Home: React.FC = () => {
   return (
-    <>
+    <div style={{ backgroundColor: `${theme.verdeCinebras}` }}>
       <Header>
         <Image>
-          *LOGO CONTAINER
-          {/* <img src={Logo} /> */}
+          <img src={Logo} style={{ width: '272px' }} />
         </Image>
-        <Input className="pesquisa" placeholder="o que deseja encontrar?" />
+        <Input className="pesquisa" placeholder="O que você procura?" />
       </Header>
-      <AnuncianteHorizontal>Anunciante Horizontal</AnuncianteHorizontal>
+      <AnuncianteHorizontal>
+        <LogoAnunciante>
+          <img src={LogoHavan} style={{ height: '161px', width: '277px' }} />
+        </LogoAnunciante>
+        <CarrouselCapas style={{ marginTop: '25px' }} />
+      </AnuncianteHorizontal>
       <Body>
         <ContainerFilmesCarroussel>
-          <FilmesCarrousel>
-            <div>
-              <p>Genero dos filmes a serem mostrados 1</p>
-              <p>#chave1 #chave2 #chave3</p>
-            </div>
-            <CarrouselCapas>
-              <CapaFilme />
-              <CapaFilme />
-              <CapaFilme />
-            </CarrouselCapas>
-          </FilmesCarrousel>
+          <Carousel category={dadosIniciais.categorias[1]} ignoreFirstVideo />
+          {/* CAROSSEL!!! */}
           <FilmesCarrousel>
             <div>
               <p>Genero dos filmes a serem mostrados 2</p>
@@ -53,6 +61,20 @@ const Home: React.FC = () => {
               <CapaFilme />
             </CarrouselCapas>
           </FilmesCarrousel>
+          <AnuncianteMiniVertical>
+            <img
+              src={LogoItau}
+              style={{
+                height: '223px',
+                width: '277px',
+                marginRight: '30px',
+              }}
+            />
+            <CapaFilme />
+            <CapaFilme />
+            <CapaFilme />
+          </AnuncianteMiniVertical>
+
           <FilmesCarrousel>
             <div>
               <p>Genero dos filmes a serem mostrados 3</p>
@@ -98,7 +120,8 @@ const Home: React.FC = () => {
         </ContainerFooterEmail>
       </Footer>
       <Body />
-    </>
+    </div>
   );
 };
+
 export default Home;
