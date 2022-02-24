@@ -7,22 +7,40 @@ const NavBar: React.FC = () => {
     <Container>
       <Ul>
         <Li>
-          <Link to="/"> Home </Link>
+          <Link style={{ color: 'white' }} to="/">
+            {' '}
+            Home{' '}
+          </Link>
         </Li>
         <Li>
-          <Link to="/filmes"> Filmes </Link>
+          <Link style={{ color: 'white' }} to="/filmes">
+            {' '}
+            Filmes{' '}
+          </Link>
         </Li>
         <Li>
-          <Link to="/series"> Series </Link>
+          <Link style={{ color: 'white' }} to="/series">
+            {' '}
+            Series{' '}
+          </Link>
         </Li>
         <Li>
-          <Link to="/documentarios"> Documentários </Link>
+          <Link style={{ color: 'white' }} to="/documentarios">
+            {' '}
+            Documentários{' '}
+          </Link>
         </Li>
         <Li>
-          <Link to="/Shows"> Shows </Link>
+          <Link style={{ color: 'white' }} to="/Shows">
+            {' '}
+            Shows{' '}
+          </Link>
         </Li>
         <Li>
-          <Link to="/Blog"> Blog </Link>
+          <Link style={{ color: 'white' }} to="/Blog">
+            {' '}
+            Blog{' '}
+          </Link>
         </Li>
       </Ul>
     </Container>

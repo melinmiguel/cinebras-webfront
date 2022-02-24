@@ -1,0 +1,273 @@
+{
+  "categorias": [
+    {
+      "titulo": "Culinária",
+      "link": "https://www.youtube.com/c/mohindi/videos",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Culinária do Mohamad",
+        "url": "https://www.youtube.com/c/mohindi/videos"
+      },
+      "videos": [
+        {
+          "titulo": "Site criado para armazenar os Videos escolhidos!",
+          "url": "https://www.youtube.com/watch?v=rdUol1EEkg0&ab_channel=MohamadHindi"
+        },
+        {
+          "titulo": "Pratos deliciosos do chef Fogaça | 200 graus | Discovery H&H Brasil",
+          "url": "https://www.youtube.com/watch?v=fjiaCQuQjhQ&ab_channel=DiscoveryHome%26HealthBrasil"
+        },
+        {
+          "titulo": "SÓ 2 INGREDIENTE A SOBREMESA MAIS FÁCIL DO MUNDO/ CULINÁRIA CASEIRA",
+          "url": "https://www.youtube.com/watch?v=NxPUNEslVhU&ab_channel=Culin%C3%A1riaCaseira"
+        },
+        {
+          "titulo": "MACARRÃO À CARBONARA | Mohamad Hindi",
+          "url": "https://www.youtube.com/watch?v=qZnSb3KTlAk&ab_channel=MohamadHindi"
+        },
+        {
+          "titulo": "PIZZA DE FRIGIDEIRA | Mohamad Hindi",
+          "url": "https://www.youtube.com/watch?v=TQGosL96cFU&ab_channel=MohamadHindi"
+        },
+        {
+          "titulo": "PRATO VEGETARIANO IDEAL",
+          "url": "https://www.youtube.com/watch?v=X7aIpOC_1sk&ab_channel=PalavraDeNutri"
+        },
+        {
+          "titulo": "RECEITAS VEGETARIANAS RÁPIDA E FÁCIL (Ovo-Lacto) | Amanda Oliveira",
+          "url": "https://www.youtube.com/watch?v=mTroOuEhFIA&ab_channel=AmandaOliveira"
+        },
+        {
+          "titulo": "O MELHOR HAMBÚRGUER VEGETARIANO | Receitas Vegetarianas | Rafael Ribas",
+          "url": "https://www.youtube.com/watch?v=9YjlGzhLy9I&ab_channel=MohamadHindi"
+        }
+      ]
+    },
+    {
+      "titulo": "Maquiagem",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Mais videos de maquiagem aqui!",
+        "url": "https://www.youtube.com/results?search_query=MAQUIAGEM"
+      },
+      "videos": [
+        {
+          "titulo": "TESTEI a BASE da BOCA ROSA BEAUTY em PELE NEGRA! | CANSEI!",
+          "url": "https://www.youtube.com/watch?v=c3Ns-AgD-Vg&ab_channel=CamilladeLucas"
+        },
+        {
+          "titulo": "POR QUE NÃO ME CHAMOU, MARI MARIA? BASE VELVET SKIN #OTomMaisEscuro",
+          "url": "https://www.youtube.com/watch?v=3summN6invY&ab_channel=HerdeiradaBeleza"
+        },
+        {
+          "titulo": "COMO SE MAQUIAR DE VERDADE",
+          "url": "https://www.youtube.com/watch?v=qx6xX8xETb4&ab_channel=FrancinyEhlke"
+        },
+        {
+          "titulo": "Os Melhores Tutoriais de Maquiagem das Gringas💜 #169 💕 Cheias de Charme Tutoriais",
+          "url": "https://www.youtube.com/watch?v=d-CBs43p7Rk&ab_channel=CheiasdeCharmeTutoriais"
+        },
+        {
+          "titulo": "Make Completa COM MARIMARIAMAKEUP! 🌟",
+          "url": "https://www.youtube.com/watch?v=F0gjojmFYoY&ab_channel=MariMaria"
+        },
+        {
+          "titulo": "TESTEI a BASE da MARI MARIA em PELE NEGRA",
+          "url": "https://www.youtube.com/watch?v=uSkwJV36hIQ&ab_channel=CamilladeLucas"
+        }
+      ]
+    },
+    {
+      "titulo": "Filtro Solar",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Assista o primeiro video, é uma mensagem muito boa!",
+        "url": "https://www.youtube.com/results?search_query=Protetor+solar+pedro+bial"
+      },
+      "videos": [
+        {
+          "titulo": "Filtro Solar Pedro Bial Clipe Oficial",
+          "url": "https://www.youtube.com/watch?v=szBeo65szcI&ab_channel=ozeiasfernandoBarbosa"
+        },
+        {
+          "titulo": "A Verdade Sobre Filtro Solar - Dr Lucas Fustinoni",
+          "url": "https://www.youtube.com/watch?v=DJjJ180y7fw&ab_channel=DrLucasFustinoni"
+        },
+        {
+          "titulo": "Por que usar protetor solar? #Ticolicos|EP14",
+          "url": "https://www.youtube.com/watch?v=yaw8DjsC2nk&ab_channel=Ticolicos-CanalInfantil"
+        },
+        {
+          "titulo": "Quando e como usar o PROTETOR SOLAR",
+          "url": "https://www.youtube.com/watch?v=3bEADFncKZo&ab_channel=TuaSa%C3%BAde"
+        },
+        {
+          "titulo": "O que vem Primeiro: O Hidratante ou o Filtro Solar?",
+          "url": "https://www.youtube.com/watch?v=5ZJ1rR5zeFU&ab_channel=TratandodeEsteticacomGabiTuller"
+        }
+      ]
+    },
+    {
+      "titulo": "Resenhas de Livros",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "O Poder do Hábito | Resenha do Livro",
+          "url": "https://www.youtube.com/watch?v=stSvsEZrFrw&ab_channel=QuandoMenos%C3%A9Mais"
+        },
+        {
+          "titulo": "Resenha de Livro: Extraordinário",
+          "url": "https://www.youtube.com/watch?v=-QJHo7u1NYw&ab_channel=GiovannaFerrarezi"
+        },
+        {
+          "titulo": "A Sutil Arte de Ligar o F*da-se - resenha | Bia Jiacomine",
+          "url": "https://www.youtube.com/watch?v=hcsy4XEr72U&ab_channel=BiaJiacomine"
+        },
+        {
+          "titulo": "Como fazer uma resenha",
+          "url": "https://www.youtube.com/watch?v=enEHMd4mvms&ab_channel=Profa.VERI"
+        },
+        {
+          "titulo": "Resenha Livro 1984, DE GEORGE ORWELL | Seja Uma Pessoa Melhor",
+          "url": "https://www.youtube.com/watch?v=N5qRlJEDE7Y&ab_channel=SejaUmaPessoaMelhor"
+        },
+        {
+          "titulo": "Resenha do livro O PRÍNCIPE | Nicolau Maquiavel| SejaUmaPessoaMelhor",
+          "url": "https://www.youtube.com/watch?v=psCco-P28E4&ab_channel=SejaUmaPessoaMelhor"
+        },
+        {
+          "titulo": "O HOMEM DE GIZ, de C. J. Tudor | Nuvem Literária",
+          "url": "https://www.youtube.com/watch?v=bWjN5aGoGLk&ab_channel=JuCirqueira"
+        },
+        {
+          "titulo": "Aprenda os 5 Domínios da INTELIGÊNCIA EMOCIONAL| DANIEL GOLEMAN | SejaUmaPessoaMelhor",
+          "url": "https://www.youtube.com/watch?v=xrQl9D2jVw4&ab_channel=SejaUmaPessoaMelhor"
+        }
+      ]
+    },
+    {
+      "titulo": "Capacitismo",
+      "cor": "red",
+      "link_extra": {
+        "text": "Mais videos de Capacitismo, aqui!",
+        "url": "https://www.youtube.com/results?search_query=Capacitismo"
+      },
+      "videos": [
+        {
+          "titulo": "CAPACITISMO",
+          "url": "https://www.youtube.com/watch?v=iTLBZkzqtpk&ab_channel=VAIUMAM%C3%83OZINHAAI%3F"
+        },
+        {
+          "titulo": "INCLUSÃO",
+          "url": "https://www.youtube.com/watch?v=Yz0DJSTN-Fg&ab_channel=TemperoDrag"
+        },
+        {
+          "titulo": "CAPACITISMO | O que é e como combatê-lo?",
+          "url": "https://www.youtube.com/watch?v=SO6decyu6Q4&ab_channel=LeideCesarOficial"
+        },
+        {
+          "titulo": "O QUE É CAPACITISMO",
+          "url": "https://www.youtube.com/watch?v=QngWF-j2O78&ab_channel=LouiseSuelen"
+        },
+        {
+          "titulo": "O futuro anti-capacitista: curar preconceitos e celebrar diversidades | Lau Patron | TEDxSaoPaulo",
+          "url": "https://www.youtube.com/watch?v=0XEZmh86EhE&ab_channel=TEDxTalks"
+        }
+      ]
+    },
+    {
+      "titulo": "Matemática",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "TUDO DE MATEMÁTICA BÁSICA - Aula 1 - Semana da Matemática Básica",
+          "url": "https://www.youtube.com/watch?v=ddZHkCUcYRM&ab_channel=UmbertoMannarino"
+        },
+        {
+          "titulo": "Macetes de Matemática",
+          "url": "https://www.youtube.com/watch?v=92R8SLDG3wQ&ab_channel=Matem%C3%A1tica%26CIA"
+        },
+        {
+          "titulo": "TUDO SOBRE A MINHA FACULDADE DE MATEMÁTICA | Precisa ser bom em matemática?",
+          "url": "https://www.youtube.com/watch?v=IfbyAENYchs&ab_channel=AMateman%C3%ADacaporJuliaJaccoud"
+        },
+        {
+          "titulo": "Matemática Básica - Aula 1 - Adição",
+          "url": "https://www.youtube.com/watch?v=az6OYFS7AUA&list=PLTPg64KdGgYgFpOFt2TETLdEuBB4fvxxf&ab_channel=FerrettoMatem%C3%A1tica"
+        },
+        {
+          "titulo": "Porcentagem - matemática",
+          "url": "https://www.youtube.com/watch?v=ZZXcTQpbdaE&ab_channel=MarcosAbaMatem%C3%A1tica"
+        }
+      ]
+    },
+    {
+      "titulo": "Yoga",
+      "cor": "#996586",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Yoga para Iniciantes ( redondinha e delícia ) | 20 Min - Pri Leite",
+          "url": "https://www.youtube.com/watch?v=t7P-dJkRUG8&ab_channel=PriLeiteYoga"
+        },
+        {
+          "titulo": "Yoga para suar, energizar e sair do desânimo | 10min - Pri Leite",
+          "url": "https://www.youtube.com/watch?v=e9Z04ZwEWCo&ab_channel=PriLeiteYoga"
+        },
+        {
+          "titulo": "Yoga para Quem Nunca Praticou | 10Min - Pri Leite",
+          "url": "https://www.youtube.com/watch?v=OuCvUDVoX3M&ab_channel=PriLeiteYoga"
+        },
+        {
+          "titulo": "Yoga para Iniciantes: FORTALECENDO e ALONGANDO o CORPO TODO | Fernanda Yoga",
+          "url": "https://www.youtube.com/watch?v=QbxPUFl3cuc&ab_channel=FernandaYoga"
+        },
+        {
+          "titulo": "Yin Yoga: MAIS FLEXIBILIDADE, REDUÇÃO do ESTRESSE e ANSIEDADE para TODO O CORPO | Fernanda Yoga",
+          "url": "https://www.youtube.com/watch?v=XDErEr08kyc&ab_channel=FernandaYoga"
+        }
+      ]
+    },
+    {
+      "titulo": "Traillers",
+      "cor": "#8de9",
+      "link_extra": {
+        "text": "Mais Traillers, aqui!",
+        "url": "https://www.youtube.com/results?search_query=Trailer+"
+      },
+      "videos": [
+        {
+          "titulo": "Convenção das Bruxas - Trailer Oficial",
+          "url": "https://www.youtube.com/watch?v=whAEYgJlaek&ab_channel=Ingresso.com"
+        },
+        {
+          "titulo": "Batman | Teaser Trailer Legendado DC FanDome",
+          "url": "https://www.youtube.com/watch?v=fbS0efVvkVU&ab_channel=Ingresso.com"
+        },
+        {
+          "titulo": "Dune Official Trailer",
+          "url": "https://www.youtube.com/watch?v=n9xhJrPXop4&ab_channel=WarnerBros.Pictures"
+        },
+        {
+          "titulo": "2067 Trailer (2020)",
+          "url": "https://www.youtube.com/watch?v=Fk3NhzNqAuY&ab_channel=FilmSelectTrailer"
+        },
+        {
+          "titulo": "Mulher-Maravilha 1984 | Trailer Legendado DC Fandome",
+          "url": "https://www.youtube.com/watch?v=Y5BejyusI2s&t=29s&ab_channel=Ingresso.com"
+        },
+        {
+          "titulo": "171 vai sair pra NOVA GERAÇÃO e NOVO trailer, NOVIDADES do 171 o GTA Brasileiro",
+          "url": "https://www.youtube.com/watch?v=d-noJbPsIYo&ab_channel=Gameplayrj"
+        }
+      ]
+    }
+  ]
+}

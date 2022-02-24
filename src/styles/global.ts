@@ -8,7 +8,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     box-sizing: border-box;
     outline: 0;
-    background-color: ${theme.verdeCinebras};
+
   }
 
   /* body {
@@ -28,7 +28,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   body, input, button {
-    font-family: "Museo Sans", serif;
+    font-family: "Roboto";
   }
 
   h1,h2,h3,h4,h5,h6 {

@@ -7,7 +7,7 @@ const theme = {
   defaultLime: '#C8DD52',
   darkLime: '#A0B041,',
   lightLime: '#FAFCF2',
-  verdeCinebras: '#529246',
+  verdeCinebras: '#0FA02F',
 
   defaultCoral: '#D7464D',
   darkCoral: '#812A2E',
