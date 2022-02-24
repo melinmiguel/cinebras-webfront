@@ -116,8 +116,8 @@ export const PlayerPrevias = styled.div`
 `;
 
 export const Footer = styled.footer`
-  height: 278px;
-  background-color: yellow;
+  min-height: 278px;
+  background-color: #4c9900;
   display: flex;
   flex-direction: row;
   justify-content: center;

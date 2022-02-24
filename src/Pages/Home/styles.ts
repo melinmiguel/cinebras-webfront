@@ -146,14 +146,6 @@ export const PlayerPrevias = styled.div`
   background-color: orange;
 `;
 
-export const Footer = styled.footer`
-  height: 278px;
-  background-color: yellow;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-`;
-
 export const ContainerFooterLista = styled.div`
   margin-right: 46px;
 `;
